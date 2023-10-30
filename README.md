@@ -1,4 +1,4 @@
-# Chi-Squared Testing for Hypotheses README
+# Chi-Squared Testing for Hypotheses 
 
 This README provides an overview of the Chi-squared testing conducted in relation to three hypotheses. Each hypothesis focuses on different aspects of consumer behavior and perceptions in Kenya. We will explain the components of Chi-squared testing and the results for each hypothesis.
 
