@@ -21,11 +21,18 @@ Chi-squared testing is a statistical method used to determine whether there is a
 
 ### Chi-Squared Testing Components
 
-- **Contingency Table**: For Hypothesis 1, the Chi-squared test was conducted using a contingency table. The table contained two categorical variables: "Encountering Multiple Eco-Labels" and "Challenges Understanding Eco-Labels."
+**Questions Used**:
 
-- **Chi-Squared Statistic**: The Chi-squared statistic measures the strength of association between these two variables.
+- "I am confident in my ability to distinguish between different eco-labels when shopping for products.": This question helps assess whether consumers encounter multiple eco-labels on similar products, a key aspect of eco-label confusion.
 
-- **P-value**: The p-value represents the probability of obtaining the observed relationship (or a stronger one) between the variables by random chance, assuming no actual association.
+- "How often do you find it challenging to understand the environmental implications of a product based on its eco-label?": This question evaluates how often consumers find it challenging to understand the environmental implications of a product based on its eco-label, which relates to the effectiveness of eco-labels.
+
+**Justification**:
+These questions were chosen because they directly pertain to the central idea of Hypothesis 1, which is to understand if multiple eco-labelling schemes lead to confusion among consumers and hinder the promotion of eco-friendly products. By examining how frequently consumers encounter multiple eco-labels and the challenges they face in understanding these labels, the analysis can provide insights into the hypothesis.
+
+- **Chi-Squared Statistic**: The Chi-squared statistic measures the strength of association between these two variables. Actual Chi-squared Statistic: 6.154.
+
+- **P-value**: The p-value represents the probability of obtaining the observed relationship (or a stronger one) between the variables by random chance, assuming no actual association. Actual P-value: 0.104.
 
 - **Degrees of Freedom**: In this case, there were 3 degrees of freedom, corresponding to the number of categories or cells in the contingency table that are free to vary.
 
@@ -40,11 +47,18 @@ Chi-squared testing is a statistical method used to determine whether there is a
 
 ### Chi-Squared Testing Components
 
-- **Contingency Table**: For Hypothesis 2, a contingency table was used with two categorical variables: "Intentional Purchase of KEBS-Labeled Products" and "Likelihood of Choosing KEBS-Labeled Products."
+**Questions Used**:
 
-- **Chi-Squared Statistic**: The Chi-squared statistic measures the association between these variables.
+- "Have you intentionally purchased products with the KEBS label because of its perceived quality and safety standards?": This question assesses whether consumers intentionally purchase products with the KEBS label based on perceived quality and safety, which directly relates to trust.
 
-- **P-value**: The p-value indicates the significance of the results.
+- "How much trust do you place in products that bear the KEBS label when it comes to quality and safety?": This question measures how likely consumers are to choose a product with the KEBS label over a similar product without it, which also reflects trust in KEBS-labeled products.
+
+**Justification**:
+These questions were selected because they address the central theme of Hypothesis 2, which is the trust consumers place in products with the KEBS label. By examining intentional purchase behavior and the likelihood of choosing KEBS-labeled products, the analysis can provide insights into consumer trust.
+
+- **Chi-Squared Statistic**: The Chi-squared statistic measures the association between these variables. Actual Chi-squared Statistic: 12.001.
+
+- **P-value**: The p-value indicates the significance of the results. Actual P-value: 0.0173.
 
 - **Degrees of Freedom**: There were 4 degrees of freedom for this analysis.
 
@@ -59,11 +73,18 @@ Chi-squared testing is a statistical method used to determine whether there is a
 
 ### Chi-Squared Testing Components
 
-- **Contingency Table**: For Hypothesis 3, a contingency table was used with two categorical variables: "Association of KEBS Label with Government Oversight" and "Belief in Reliability and Safety of KEBS-Labeled Products."
+**Questions Used**:
 
-- **Chi-Squared Statistic**: The Chi-squared statistic measures the association between these variables.
+- "To what extent do you associate the KEBS label with government oversight and regulation?": This question evaluates the extent to which consumers associate the KEBS label with government oversight, which is a core element of the hypothesis.
 
-- **P-value**: The p-value indicates the significance of the results.
+- "Do you believe that products with the KEBS label are more reliable and safer than those without it?": This question assesses consumer beliefs in the reliability and safety of KEBS-labeled products, which ties directly to government regulation.
+
+**Justification**:
+These questions were chosen because they directly align with the central idea of Hypothesis 3, which is to understand the extent of consumers' association of the KEBS label with government oversight and whether they believe KEBS-labeled products are reliable and safe due to regulation.
+
+- **Chi-Squared Statistic**: The Chi-squared statistic measures the association between these variables. Actual Chi-squared Statistic: 49.326.
+
+- **P-value**: The p-value indicates the significance of the results. Actual P-value: 0.0000000004992.
 
 - **Degrees of Freedom**: There were 4 degrees of freedom for this analysis.
 
